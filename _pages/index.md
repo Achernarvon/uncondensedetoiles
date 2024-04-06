@@ -15,7 +15,9 @@ Ce lieu est avant tout un espace personnel, mon petit bout d'internet où je peu
 
 Je l'ai voulu dans l'esprit des pages personnelles qu'on pouvait encore trouver il y a de ça une dizaine d'années, avant que tout le monde commence à se soucier de ce que les autres penseront de leurs créations.
 
+Désolé d'avance pour vous cher lecteur, j'écris d'abord ici pour moi. Cependant, j'ai une forte volonté de partager ce que je découvre du monde qui m'entoure, et ma curiosité et mon émerveillement touchent des sujets variés. Ici, vous pourrez trouver tout ce que j'ai toujours envie de partager au monde sur mes passions ou simplement de petites choses que j'ai apprises.
 
+Have fun !
 
 <strong>Les notes récemment mises à jour</strong>
 
