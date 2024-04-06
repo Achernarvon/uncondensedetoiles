@@ -11,9 +11,9 @@ This is your first note. You'll find it in the [`notes/`](https://github.com/max
 To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
 
 - Using the note title: [[a note about cats]]
-- Using the note's filename: [[cats]]
+- Using the note's filename: [[Citations]]
 - Using the note's title, with a label: [[A note about cats|link to the note about cats using the note title]]
-- Using the note's filename, with a label: [[cats|link to the note about cats using the note's filename]]
+- Using the note's filename, with a label: [[Citations|link to the note about cats using the note's filename]]
 
 You can organize notes in subdirectories and link them normally. For example, the links above all point to the `_notes/animals/cats.md` file. Here's another example: [[tigers]].
 
@@ -30,7 +30,7 @@ Since the Web is all about HTML, you can always use plain HTML if you want, like
 Of course, you can also link to external websites, like this: [this is a link to Wikipedia](https://wikipedia.org/). Again, you can use plain HTML if you prefer. Footnotes are also supported and will be treated like internal links.[^1] You can point to other notes in your footnotes.[^2]
 
 [^1]: This is a footnote. For more information about using footnotes, check out the [Markdown Guide](https://www.markdownguide.org/extended-syntax/#footnotes).
-[^2]: This is another footnote that links to the note about [[cats]]. You may also point to [[notes that do not exist]] if you wish.
+[^2]: This is another footnote that links to the note about [[Citations]]. You may also point to [[notes that do not exist]] if you wish.
 
 ### Tweet embedding
 

@@ -5,17 +5,19 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Bienvenue ! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Ce lieu est avant tout un espace personnel, mon petit bout d'internet où je peux exposer un peu tout ce qui m'anime et ce que je suis. Un petit cheminement vers plus d'épanouissement et de confiance en moi.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+Je l'ai voulu dans l'esprit des pages personnelles qu'on pouvait encore trouver il y a de ça une dizaine d'années, avant que tout le monde commence à se soucier de ce que les autres penseront de leurs créations.
 
-<strong>Recently updated notes</strong>
+
+
+<strong>Les notes récemment mises à jour</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
