@@ -19,6 +19,14 @@ Désolé d'avance pour vous cher lecteur, j'écris d'abord ici pour moi. Cependa
 
 Have fun !
 
+<strong>Quelques idées pour parcourir ces notes</strong>
+
+Voici un survol de quelques uns de mes topics préférés :
+
+- Vulgarisation des choses qui m'émerveillent en physique, en astronomie, voire plus généralement en sciences
+- Discussions sur quelques unes de mes citations préférées
+- Analyses de chansons, de livres que j'ai particulièrement appréciés
+
 <strong>Les notes récemment mises à jour</strong>
 
 <ul>
