@@ -1,5 +1,5 @@
 ---
-title: Citations
+title: Litanie contre la peur
 ---
 
 > Je ne connaîtrai pas la peur, car la peur tue l'esprit.  

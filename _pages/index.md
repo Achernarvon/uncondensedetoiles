@@ -11,9 +11,9 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-Ce lieu est avant tout un espace personnel, mon petit bout d'internet où je peux exposer un peu tout ce qui m'anime et ce que je suis. Un petit cheminement vers plus d'épanouissement et de confiance en moi.
+Ce lieu est avant tout un espace personnel, mon petit bout d'internet où je peux exposer tout ce qui m'anime et ce que je suis. Un petit cheminement vers plus d'épanouissement et de confiance en moi.
 
-Je l'ai voulu dans l'esprit des pages personnelles qu'on pouvait encore trouver il y a de ça une dizaine d'années, avant que tout le monde commence à se soucier de ce que les autres penseront de leurs créations.
+Je l'ai voulu dans l'esprit des pages personnelles qu'on pouvait encore trouver il y a de ça une dizaine d'années, avant que tout le monde commence à se soucier de ce que les autres penseront de leurs créations ou des apparences.
 
 Désolé d'avance pour vous cher lecteur, j'écris d'abord ici pour moi. Cependant, j'ai une forte volonté de partager ce que je découvre du monde qui m'entoure, et ma curiosité et mon émerveillement touchent des sujets variés. Ici, vous pourrez trouver tout ce que j'ai toujours envie de partager au monde sur mes passions ou simplement de petites choses que j'ai apprises.
 
